@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body{
+	background-color:red;
+}
+#container{
+	height:400px;
+	width:400px;
+	background-color: aliceblue;
+	position: relative;
+	left:400px;
+	top:20px;
+}
+#login{
+	padding-left:130px;
+	padding-top:10px;
+}
+#name{
+	padding-top: 50px;
+	padding-left:60px;
+	
+}
+#pws{
+	padding-top: 50px;
+	padding-left:60px;
+}
+#sub{
+	padding-top: 40px;
+	padding-left:160px;
+	
+}
+
+#sub input{
+	height: 30px;
+	width: 100px;
+}#create a{
+	font-size:20px;
+	color:blue;
+	text-decoration:none;
+}
+#create {
+	padding-top:30px;
+	padding-left:250px;
+}
